@@ -1,1 +1,2 @@
 This is another file to test commit
+I want to have another change
